@@ -23,3 +23,5 @@ Enclosed is a chart containing the data below:
   
   As the "silver tsunami" begins to make an impact, 90398 employees will be needed to fill the roles of those employees who will be retiring. 
 Unfortunately, there are not enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees. There are only 1549 employees eligible for mentoring new employees, which is astronomically less than the number of new employees that need mentoring.
+
+   There are additional queries that Pewlett_Hackard can undertake as they explore the options for their workforce. One query they can utlize is one that examines...
