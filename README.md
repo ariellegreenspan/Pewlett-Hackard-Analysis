@@ -18,6 +18,7 @@ Enclosed is a chart containing the data below:
 ![retiring titles](Data/retiring_titles.png)
 
 
+* 1549 employees are eligible for the mentorship program.
 
 ## Summary:
   
