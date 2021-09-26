@@ -15,7 +15,7 @@
 * 2 Managers will be retiring soon. 
 Enclosed is a chart containing the data below:
 
-![image][Data/retiring_titles.csv]
+![retiring titles](Data/retiring_titles.csv)
 
 
 
